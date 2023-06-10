@@ -1,0 +1,80 @@
+.container {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    position: fixed;
+    margin: auto !important;
+    background-image: url("https://th.bing.com/th/id/OIP.IHeLttqnm72R7cSpB-6ZQwHaEK?pid=ImgDet&rs=1");
+}
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+.til{
+    background-color: #a25151;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: auto;
+}
+.card { 
+    margin-top: 100px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 700px;
+    max-height: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding: 20px;
+    background-color: #c58989;
+    display:flex;
+    border-radius: 5%;
+}
+ 
+.main {
+    padding: 0 16px;
+    width: 60%;
+    padding: auto;
+}
+.img{
+    width: 40%;
+}
+.img1{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #000;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.title {
+    color: rgb(13, 4, 4);
+    font-size: 18px;
+}
+button {
+    margin-top: 10px;
+    border: none;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100px;
+    border-radius:10%;
+    font-size: 18px;
+}
+ 
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+ 
+button:hover, a:hover {
+    opacity: 0.7;
+}
+h1{
+    font-size:40px;
+}
